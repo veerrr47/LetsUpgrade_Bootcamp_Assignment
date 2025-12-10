@@ -17,7 +17,7 @@ Designing tables with appropriate keys
 -Performing CRUD operations
 -Writing analytical SQL queries
 -Solving business-level questions on event performance and user participation
-All queries and solutions are included in the bootcamp sql file.
+All queries and solutions are included in the Bootcamp_assignment_solutions.sql  file.
 
 ## 🛠️ Tech Stack
 
